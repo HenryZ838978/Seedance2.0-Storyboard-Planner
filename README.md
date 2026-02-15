@@ -94,7 +94,7 @@ Seedance 2.0 的多模态参考系统非常强大（@图片 + @视频 + @音频 
 ### 方式一：一键启动（推荐）
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SeeDance2.0.git
+git clone https://github.com/HenryZ838978/SeeDance2.0.git
 cd SeeDance2.0
 ./start.sh
 ```
