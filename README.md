@@ -5,11 +5,11 @@
   <img src="https://img.shields.io/badge/FastAPI-LiteLLM-009688?style=for-the-badge&labelColor=1D1D1F" />
 </p>
 
-<h1 align="center">SeeDance 2.0</h1>
+<h1 align="center">Seedance 2.0 素材分镜规划器</h1>
 
 <p align="center">
-  <b>Seedance 2.0 可视化分镜工作流</b><br/>
-  从创意规划到视频生成的一站式前期制作工具
+  <b>从创意规划到视频生成的一站式前期制作工具</b><br/>
+  为 Seedance 2.0 AI 视频生成量身打造的可视化分镜工作流
 </p>
 
 <p align="center">
