@@ -1,0 +1,19 @@
+services:
+  frontend:
+    build: ./app
+    ports:
+      - "5210:80"
+    depends_on:
+      - backend
+
+  backend:
+    build: ./backend
+    ports:
+      - "5211:8000"
+    volumes:
+      - seedance-data:/data
+    environment:
+      - SEEDANCE_DATA_DIR=/data
+
+volumes:
+  seedance-data:
