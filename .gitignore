@@ -1,29 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Python
+backend/venv/
+backend/data/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# macOS app bundle (built artifact)
+SeeDance2.0.app/
+
 # Logs
-logs
 *.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
+# Editor
 .vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
+*.local
 *.sw?
-
-# App bundle (built artifact)
-SeeDance2.0.app/
-app/node_modules/
-app/dist/

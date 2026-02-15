@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jszip": "^3.10.1",
+    "sortablejs": "^1.15.7",
+    "uuid": "^13.0.0",
+    "vue": "^3.5.25",
+    "wavesurfer.js": "^7.12.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@vitejs/plugin-vue": "^6.0.2",
+    "tailwindcss": "^4.1.18",
+    "vite": "^7.3.1"
+  }
+}
